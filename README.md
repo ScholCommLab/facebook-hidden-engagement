@@ -5,7 +5,7 @@ This project run by the [\#ScholCommLab](scholcommlab.ca) explores the collectio
 - [Facebook Hidden Engagement](#facebook-hidden-engagement)
     - [Technical Challenges of Collecting Altmetrics through Facebook's Graph API](#technical-challenges-of-collecting-altmetrics-through-facebooks-graph-api)
     - [Public vs Private Engagement (WIP)](#public-vs-private-engagement-wip)
-    - [Study of Facebook Engagement of PLoS ONE publications from 2013-2018 (WIP)](#study-of-facebook-engagement-of-plos-one-publications-from-2013-2018-wip)
+    - [Private/Public Engagement of PLoS ONE publications from 2013-2018 (WIP)](#privatepublic-engagement-of-plos-one-publications-from-2013-2018-wip)
     - [FHE Microservice (WIP)](#fhe-microservice-wip)
 
 More details in the individual project descriptions below:
@@ -30,7 +30,14 @@ GitHub: [Public vs Private Engagement](https://github.com/ScholCommLab/fhe-publi
 
 The current aim of this project is the collection of Facebook's private engagement numbers through their Graph API in contrast to common approaches which only access data available in postings in public groups.
 
-## Study of Facebook Engagement of PLoS ONE publications from 2013-2018 (WIP)
+As demonstrated, the technical challenges of collecting private engagement data on Facebook imposes certain requirements for effective and successful collection of metrics:
+
+- Best practices of publishing web content are adhered to by publisher
+- Familiarity with the page structure and publication system
+
+In the following study we attempt to examine the difference between public and private engagement numbers for PLoS ONE as both requirements are mostly fulfilled.
+
+### Private/Public Engagement of PLoS ONE publications from 2013-2018 (WIP)
 
 Zenodo: [![DOI](https://zenodo.org/badge/136392868.svg)](https://zenodo.org/badge/latestdoi/136392868)
 
