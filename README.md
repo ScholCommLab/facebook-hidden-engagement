@@ -1,4 +1,7 @@
 # Facebook Hidden Engagement
+> Exploring public and private engagement of scholarly works on Facebook
+
+[![DOI](https://zenodo.org/badge/132671492.svg)](https://zenodo.org/badge/latestdoi/132671492)
 
 This project run by the [\#ScholCommLab](scholcommlab.ca) explores the collection of social engagement data for scholarly articles through Facebook's Graph API.
 
