@@ -2,10 +2,16 @@
 
 > Exploring the extent of private engagement with scholarship that is hidden from the public view
 
-This project run by the [\#ScholCommLab](scholcommlab.ca) explores the collection of social engagement data for scholarly articles through Facebook's Graph API. The project entailed the exploration and development of a new data collection method that aggregates engagement counts across several URLs for each article.
+This project run by the [\#ScholCommLab](scholcommlab.ca) explores the public and private side of engagement with scholarly documents on Facebook. The project entailed the exploration and development of a new data collection method that aggregates shares, reactions, and likes across several URLs for each article.
 
-Several smaller subprojects emerged to address various the technical challenges of this method, its comparison with existing methods of collecting Facebook metrics, and the development of a plugin for the Open Journals System.
-«»
+Several smaller sub-projects emerged to address various dimensions of the project:
+
+1. A first evaluation of the feasibility of this method and presentation of the technical challenges of collecting private engagement data on Facebook?
+2. An application of our method to PLOS ONE publications to compare the nature and extent of private vs public engagement.
+3. The development of a plugin for the Open Journals System to collect, aggregate, and provide Facebook metrics collected with the proposed method.
+
+Table of Research Outputs:
+
 - [Facebook's Hidden Engagement](#facebooks-hidden-engagement)
   - [1. «Conference Article» Technical Challenges of Collecting Altmetrics through Facebook's Graph API](#1-%c2%abconference-article%c2%bb-technical-challenges-of-collecting-altmetrics-through-facebooks-graph-api)
   - [2. Collecting public and private FB engagement for PLOS ONE publications](#2-collecting-public-and-private-fb-engagement-for-plos-one-publications)
