@@ -7,18 +7,18 @@ This project run by the [\#ScholCommLab](scholcommlab.ca) explores the collectio
 Several smaller subprojects emerged to address various the technical challenges of this method, its comparison with existing methods of collecting Facebook metrics, and the development of a plugin for the Open Journals System.
 «»
 - [Facebook's Hidden Engagement](#facebooks-hidden-engagement)
-  - [1. «Article» Technical Challenges of Collecting Altmetrics through Facebook's Graph API](#1-%c2%abarticle%c2%bb-technical-challenges-of-collecting-altmetrics-through-facebooks-graph-api)
+  - [1. «Conference Article» Technical Challenges of Collecting Altmetrics through Facebook's Graph API](#1-%c2%abconference-article%c2%bb-technical-challenges-of-collecting-altmetrics-through-facebooks-graph-api)
   - [2. Collecting public and private FB engagement for PLOS ONE publications](#2-collecting-public-and-private-fb-engagement-for-plos-one-publications)
     - [2.1 «Workshop» Comparing public and private Facebook activity linking to PLOS ONE papers?](#21-%c2%abworkshop%c2%bb-comparing-public-and-private-facebook-activity-linking-to-plos-one-papers)
-    - [2.2 «Article» How much research shared on Facebook is hidden from public view?](#22-%c2%abarticle%c2%bb-how-much-research-shared-on-facebook-is-hidden-from-public-view)
+    - [2.2 «Journal Article» How much research shared on Facebook is hidden from public view? [WIP]](#22-%c2%abjournal-article%c2%bb-how-much-research-shared-on-facebook-is-hidden-from-public-view-wip)
     - [2.3 «Short Paper» The Nature of Private Sharing of Scholarly Articles on Facebook [WIP]](#23-%c2%abshort-paper%c2%bb-the-nature-of-private-sharing-of-scholarly-articles-on-facebook-wip)
-  - [3. Making Public Engagement Accessible [WIP]](#3-making-public-engagement-accessible-wip)
+  - [3. Making Public Engagement Accessible](#3-making-public-engagement-accessible)
     - [3.1 «Poster» Collecting, Calculating and Displaying Altmetrics with Open Source](#31-%c2%abposter%c2%bb-collecting-calculating-and-displaying-altmetrics-with-open-source)
     - [3.2 «Software» FHE Collector [WIP]](#32-%c2%absoftware%c2%bb-fhe-collector-wip)
 
-## 1. «Article» Technical Challenges of Collecting Altmetrics through Facebook's Graph API
+## 1. «Conference Article» Technical Challenges of Collecting Altmetrics through Facebook's Graph API
 
-*Contributors: Asura Enkhbayar, Juan Pablo Alperin*
+*Authors: Asura Enkhbayar, Juan Pablo Alperin*
 
 In this short research paper, to presented at [STI 2018](http://sti2018.cwts.nl/), we describe two major areas of challenges that we encountered during the collection of Facebook's engagement data based on URLs.
 
@@ -36,6 +36,8 @@ Abstract:
 
 ## 2. Collecting public and private FB engagement for PLOS ONE publications
 
+*Contributors: Asura Enkhbayar, Stefanie Haustein, Germana Barata, Juan Pablo Alperin*
+
 The aim of this project is the collection of Facebook's private engagement numbers through their Graph API in contrast to common approaches which only access data available in postings in public groups.
 
 While the previous project outlined the technical challenges of the method, here we attempt to use our approach on a homogeneous set of articles from a single publisher.
@@ -51,7 +53,7 @@ While the previous project outlined the technical challenges of the method, here
 
 Workshop proposal submitted to the 2019 Altmetrics Workshop. Oct 11, 2019, Stirling, Scotland.
 
-### 2.2 «Article» How much research shared on Facebook is hidden from public view?
+### 2.2 «Journal Article» How much research shared on Facebook is hidden from public view? [WIP]
 > A comparison of public and private online activity around PLOS ONE papers
 
 *Authors: Asura Enkhbayar, Stefanie Haustein, Germana Barata, Juan Pablo Alperin*
@@ -82,7 +84,7 @@ This short article investigates the nature of private engagement data for PLOS O
 | Code | [TBA]()|
 | Data | [TBA]() |
 
-## 3. Making Public Engagement Accessible [WIP]
+## 3. Making Public Engagement Accessible
 
 *Contributors: Stefan Kasberger, Asura Enkhbayar, Joe Wass, Christine Buske, Juan Pablo Alperin*
 
