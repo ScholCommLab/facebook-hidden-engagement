@@ -9,7 +9,7 @@ Several smaller subprojects emerged to address various the technical challenges 
 - [Facebook's Hidden Engagement](#facebooks-hidden-engagement)
   - [1. «Article» Technical Challenges of Collecting Altmetrics through Facebook's Graph API](#1-%c2%abarticle%c2%bb-technical-challenges-of-collecting-altmetrics-through-facebooks-graph-api)
   - [2. Collecting public and private FB engagement for PLOS ONE publications](#2-collecting-public-and-private-fb-engagement-for-plos-one-publications)
-    - [2.1 «Workshop» How much research shared on Facebook is hidden from public view?](#21-%c2%abworkshop%c2%bb-how-much-research-shared-on-facebook-is-hidden-from-public-view)
+    - [2.1 «Workshop» Comparing public and private Facebook activity linking to PLOS ONE papers?](#21-%c2%abworkshop%c2%bb-comparing-public-and-private-facebook-activity-linking-to-plos-one-papers)
     - [2.2 «Article» How much research shared on Facebook is hidden from public view?](#22-%c2%abarticle%c2%bb-how-much-research-shared-on-facebook-is-hidden-from-public-view)
     - [2.3 «Short Paper» The Nature of Private Sharing of Scholarly Articles on Facebook [WIP]](#23-%c2%abshort-paper%c2%bb-the-nature-of-private-sharing-of-scholarly-articles-on-facebook-wip)
   - [3. Making Public Engagement Accessible [WIP]](#3-making-public-engagement-accessible-wip)
@@ -45,11 +45,11 @@ While the previous project outlined the technical challenges of the method, here
 | Data Collection Method | [GitHub Repository](https://github.com/ScholCommLab/fhe-plos)|
 | Data [TBC] | [Dataverse Repository]() |
 
-### 2.1 «Workshop» How much research shared on Facebook is hidden from public view?
+### 2.1 «Workshop» Comparing public and private Facebook activity linking to PLOS ONE papers?
 
 *Authors: Asura Enkhbayar, Stefanie Haustein, Germana Barata, Juan Pablo Alperin*
 
-
+Workshop proposal submitted to the 2019 Altmetrics Workshop. Oct 11, 2019, Stirling, Scotland.
 
 ### 2.2 «Article» How much research shared on Facebook is hidden from public view?
 > A comparison of public and private online activity around PLOS ONE papers
