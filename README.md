@@ -1,3 +1,5 @@
+![fhe](/assets/fhe.png)
+
 # Facebook's Hidden Engagement
 
 > Exploring the extent of private engagement with scholarship that is hidden from the public view
