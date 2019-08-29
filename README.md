@@ -89,7 +89,7 @@ This short article investigates the nature of private engagement data for PLOS O
 |-|-|
 | Preprint | [TBA]() |
 | Article | [TBA]() |
-| Code | [TBA]()|
+| Code | [GitHub](https://github.com/ScholCommLab/fhe-plos-private-sharing)|
 | Data | [TBA]() |
 
 ## 3. Making Public Engagement Accessible
