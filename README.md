@@ -52,7 +52,7 @@ While the previous project outlined the technical challenges of the method, here
 
 | Resource | Link |
 |-|-|
-| Data Collection Method | [GitHub Repository](https://github.com/ScholCommLab/fhe-plos)|
+| Data Collection Method | [GitHub Repository](https://github.com/ScholCommLab/fhe-plos-data-collection)|
 | Data [TBC] | [Dataverse Repository]() |
 
 ### 2.1 «Workshop» Comparing public and private Facebook activity linking to PLOS ONE papers?
@@ -76,7 +76,7 @@ Over the years, Facebook never succeeded to enter the main stage of altmetrics r
 |-|-|
 | Preprint | [TBA]() |
 | Article | [TBA]() |
-| Code | [GitHub Repository](https://github.com/ScholCommLab/fhe-plos-paper)|
+| Code | [GitHub Repository](https://github.com/ScholCommLab/fhe-plos)|
 | Data | [Dataverse link TBA]() |
 
 ### 2.3 «Short Paper» The Nature of Private Sharing of Scholarly Articles on Facebook [WIP]
