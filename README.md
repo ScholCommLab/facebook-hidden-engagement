@@ -12,13 +12,13 @@ Several smaller sub-projects emerged to address various dimensions of the projec
 2. An application of our method to PLOS ONE publications to compare the nature and extent of private vs public engagement.
 3. The development of a plugin for the Open Journals System to collect, aggregate, and provide Facebook metrics collected with the proposed method.
 
-Table of Research Outputs:
+**Table of Contents**
 
 - [Facebook's Hidden Engagement](#facebooks-hidden-engagement)
   - [1. «Conference Article» Technical Challenges of Collecting Altmetrics through Facebook's Graph API](#1-%c2%abconference-article%c2%bb-technical-challenges-of-collecting-altmetrics-through-facebooks-graph-api)
   - [2. Collecting public and private FB engagement for PLOS ONE publications](#2-collecting-public-and-private-fb-engagement-for-plos-one-publications)
     - [2.1 «Workshop» Comparing public and private Facebook activity linking to PLOS ONE papers?](#21-%c2%abworkshop%c2%bb-comparing-public-and-private-facebook-activity-linking-to-plos-one-papers)
-    - [2.2 «Journal Article» How much research shared on Facebook is hidden from public view? [WIP]](#22-%c2%abjournal-article%c2%bb-how-much-research-shared-on-facebook-is-hidden-from-public-view-wip)
+    - [2.2 «Journal Article» How much research shared on Facebook is hidden from public view?](#22-%c2%abjournal-article%c2%bb-how-much-research-shared-on-facebook-is-hidden-from-public-view)
     - [2.3 «Short Paper» The Nature of Private Sharing of Scholarly Articles on Facebook [WIP]](#23-%c2%abshort-paper%c2%bb-the-nature-of-private-sharing-of-scholarly-articles-on-facebook-wip)
   - [3. Making Public Engagement Accessible](#3-making-public-engagement-accessible)
     - [3.1 «Poster» Collecting, Calculating and Displaying Altmetrics with Open Source](#31-%c2%abposter%c2%bb-collecting-calculating-and-displaying-altmetrics-with-open-source)
@@ -30,7 +30,7 @@ Table of Research Outputs:
 
 In this short research paper, to presented at [STI 2018](http://sti2018.cwts.nl/), we describe two major areas of challenges that we encountered during the collection of Facebook's engagement data based on URLs.
 
-Abstract:
+**Abstract**
 
 > Previous research shows that, despite its popularity, Facebook is less frequently used to share academic content. In order to investigate this discrepancy we set out to explore engagement numbers through their Graph API by querying the Facebook API with multiple URLs for a random set of 103,539 articles from the Web of Science. We identified two major challenge areas: mapping articles to URLs and the mapping URLs to objects inside Facebook. We then explored three problem cases within our dataset: (1) identifying a landing page for any given URL, (2) instances where equivalent URLs are mapped to different Facebook objects, and (3) instances of different articles being mapped onto the same Facebook object. We found that the engagement numbers for 11.8% of all articles that have been shared on Facebook at least once are not reliable because of these problems. Moreover, we were unable to identify the URL for 11.6% of the articles in our data. Taken together, the three problem cases constitute 12.3% of the 103,539 tested articles for which engagement numbers cannot be relied upon. Given that we only tested a small number of problem cases and URL variants, our results point to large challenges facing those wishing to collect Facebook metrics programatically through the available API.
 
@@ -46,51 +46,45 @@ Abstract:
 
 *Contributors: Asura Enkhbayar, Stefanie Haustein, Germana Barata, Juan Pablo Alperin*
 
-The aim of this project is the collection of Facebook's private engagement numbers through their Graph API in contrast to common approaches which only access data available in postings in public groups.
-
-While the previous project outlined the technical challenges of the method, here we attempt to use our approach on a homogeneous set of articles from a single publisher.
-
-| Resource | Link |
-|-|-|
-| Data Collection Method | [GitHub Repository](https://github.com/ScholCommLab/fhe-plos-data-collection)|
-| Data [TBC] | [Dataverse Repository]() |
+The aim of this project is the collection of Facebook's private engagement numbers through their Graph API in contrast to common approaches which only access data available in postings in public groups. While the previous project outlined the technical challenges of the method, here we attempt to use our approach on a homogeneous set of articles from a single publisher.
 
 ### 2.1 «Workshop» Comparing public and private Facebook activity linking to PLOS ONE papers?
 
 *Authors: Asura Enkhbayar, Stefanie Haustein, Germana Barata, Juan Pablo Alperin*
 
-Workshop proposal submitted to the 2019 Altmetrics Workshop. Oct 11, 2019, Stirling, Scotland.
+Short paper to be presented at the 2019 Altmetrics Workshop. Oct 11, 2019, Stirling, Scotland.
 
-### 2.2 «Journal Article» How much research shared on Facebook is hidden from public view? [WIP]
+### 2.2 «Journal Article» How much research shared on Facebook is hidden from public view?
+
 > A comparison of public and private online activity around PLOS ONE papers
 
 *Authors: Asura Enkhbayar, Stefanie Haustein, Germana Barata, Juan Pablo Alperin*
 
-A study using the data collected with the previously described method:
+This paper has been submitted to the journal Quantitative Science Studies.
 
 **Abstract**
 
-Over the years, Facebook never succeeded to enter the main stage of altmetrics research despite its undisputed position as the biggest social platforms for the general public as well as scholars alike. In this study, we argue that the lack of attention for Facebook is rooted in nature of the data collection methods hitherto, which limits the results to data generated by activity on a select group of public pages and groups. We present a new method of collecting shares, reactions, and comments across the platform including private timelines and use it to gather data for scholarly articles published with PLOS ONE in 2015, 2016, and 2017 and compare the results with data retrieved from Altmetric.com. The results not only show that half of all papers are missed by the limitation to public activity, but the actual volume of private engagement also approximates the patterns of engagement previously only observed for Twitter. Both results suggest that the role and impact of Facebook as a medium for science and scholarly communication has been underestimated. Furthermore, they emphasise the importance of openness and transparency around the collection and aggregation of altmetrics.
+> Over the years, Facebook never succeeded to enter the main stage of altmetrics research despite its undisputed position as the biggest social platforms for the general public as well as scholars alike. In this study, we argue that the lack of attention for Facebook is rooted in nature of the data collection methods hitherto, which limits the results to data generated by activity on a select group of public pages and groups. We present a new method of collecting shares, reactions, and comments across the platform including private timelines and use it to gather data for scholarly articles published with PLOS ONE in 2015, 2016, and 2017 and compare the results with data retrieved from Altmetric.com. The results not only show that half of all papers are missed by the limitation to public activity, but the actual volume of private engagement also approximates the patterns of engagement previously only observed for Twitter. Both results suggest that the role and impact of Facebook as a medium for science and scholarly communication has been underestimated. Furthermore, they emphasise the importance of openness and transparency around the collection and aggregation of altmetrics.
 
 | Resource | Link |
 |-|-|
-| Preprint | [TBA]() |
-| Article | [TBA]() |
-| Code | [GitHub Repository](https://github.com/ScholCommLab/fhe-plos)|
-| Data | [Dataverse link TBA]() |
+| Preprint | [arXiv](https://arxiv.org/abs/1909.01476) |
+| Article |  |
+| Code | [Zenodo (doi:10.5281/zenodo.3381821)](https://doi.org/10.5281/zenodo.3381821)|
+| Data | [Dataverse (doi:10.7910/DVN/3CS5ES)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/3CS5ES) |
 
 ### 2.3 «Short Paper» The Nature of Private Sharing of Scholarly Articles on Facebook [WIP]
 
-*Authors: TBD*
+*Authors: Asura Enkhbayar, Stefanie Haustein, Juan Pablo Alperin*
 
 This short article investigates the nature of private engagement data for PLOS ONE articles.
 
 | Resource | Link |
 |-|-|
-| Preprint | [TBA]() |
-| Article | [TBA]() |
+| Preprint |  |
+| Article | |
 | Code | [GitHub](https://github.com/ScholCommLab/fhe-plos-private-sharing)|
-| Data | [TBA]() |
+| Data |  |
 
 ## 3. Making Public Engagement Accessible
 
@@ -112,4 +106,8 @@ Poster Lightning Talks presented at 5AM: Altmetrics Conference 16:20-17:20. Sept
 
 *Authors: Stefan Kasberger, Asura Enkhbayar, Juan Pablo Alperin*
 
-The source code for the prototype is available in this repository: [FHE Microservice](https://github.com/ScholCommLab/fhe-collector)
+Development of open source software to collect collect public & private Facebook engagement for scholarly articles.
+
+| Resource | Link |
+|-|-|
+| Source Code | [Github](https://github.com/ScholCommLab/fhe-collector) |
