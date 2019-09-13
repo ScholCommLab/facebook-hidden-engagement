@@ -18,7 +18,7 @@ Several smaller sub-projects emerged to address various dimensions of the projec
   - [1. «Conference Article» Technical Challenges of Collecting Altmetrics through Facebook's Graph API](#1-%c2%abconference-article%c2%bb-technical-challenges-of-collecting-altmetrics-through-facebooks-graph-api)
   - [2. Collecting public and private FB engagement for PLOS ONE publications](#2-collecting-public-and-private-fb-engagement-for-plos-one-publications)
     - [2.1 «Workshop» Comparing public and private Facebook activity linking to PLOS ONE papers?](#21-%c2%abworkshop%c2%bb-comparing-public-and-private-facebook-activity-linking-to-plos-one-papers)
-    - [2.2 «Journal Article» How much research shared on Facebook is hidden from public view?](#22-%c2%abjournal-article%c2%bb-how-much-research-shared-on-facebook-is-hidden-from-public-view)
+    - [2.2 «Journal Article» How much research shared on Facebook is hidden from public view? A comparison of public and private online activity around PLOS ONE papers.](#22-%c2%abjournal-article%c2%bb-how-much-research-shared-on-facebook-is-hidden-from-public-view-a-comparison-of-public-and-private-online-activity-around-plos-one-papers)
     - [2.3 «Short Paper» The Nature of Private Sharing of Scholarly Articles on Facebook [WIP]](#23-%c2%abshort-paper%c2%bb-the-nature-of-private-sharing-of-scholarly-articles-on-facebook-wip)
   - [3. Making Public Engagement Accessible](#3-making-public-engagement-accessible)
     - [3.1 «Poster» Collecting, Calculating and Displaying Altmetrics with Open Source](#31-%c2%abposter%c2%bb-collecting-calculating-and-displaying-altmetrics-with-open-source)
@@ -54,9 +54,7 @@ The aim of this project is the collection of Facebook's private engagement numbe
 
 Short paper to be presented at the 2019 Altmetrics Workshop. Oct 11, 2019, Stirling, Scotland.
 
-### 2.2 «Journal Article» How much research shared on Facebook is hidden from public view?
-
-> A comparison of public and private online activity around PLOS ONE papers
+### 2.2 «Journal Article» How much research shared on Facebook is hidden from public view? A comparison of public and private online activity around PLOS ONE papers.
 
 *Authors: Asura Enkhbayar, Stefanie Haustein, Germana Barata, Juan Pablo Alperin*
 
