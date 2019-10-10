@@ -17,12 +17,13 @@ Several smaller sub-projects emerged to address various dimensions of the projec
 - [Facebook's Hidden Engagement](#facebooks-hidden-engagement)
   - [1. «Conference Article» Technical Challenges of Collecting Altmetrics through Facebook's Graph API](#1-%c2%abconference-article%c2%bb-technical-challenges-of-collecting-altmetrics-through-facebooks-graph-api)
   - [2. Collecting public and private FB engagement for PLOS ONE publications](#2-collecting-public-and-private-fb-engagement-for-plos-one-publications)
-    - [2.1 «Workshop» Comparing public and private Facebook activity linking to PLOS ONE papers?](#21-%c2%abworkshop%c2%bb-comparing-public-and-private-facebook-activity-linking-to-plos-one-papers)
+    - [2.1 «Workshop» Comparing public and private Facebook activity linking to PLOS ONE papers](#21-%c2%abworkshop%c2%bb-comparing-public-and-private-facebook-activity-linking-to-plos-one-papers)
     - [2.2 «Journal Article» How much research shared on Facebook is hidden from public view? A comparison of public and private online activity around PLOS ONE papers.](#22-%c2%abjournal-article%c2%bb-how-much-research-shared-on-facebook-is-hidden-from-public-view-a-comparison-of-public-and-private-online-activity-around-plos-one-papers)
-    - [2.3 «Short Paper» The Nature of Private Sharing of Scholarly Articles on Facebook [WIP]](#23-%c2%abshort-paper%c2%bb-the-nature-of-private-sharing-of-scholarly-articles-on-facebook-wip)
+    - [2.3 «Article» The Nature of Private Sharing of Scholarly Articles on Facebook [WIP]](#23-%c2%abarticle%c2%bb-the-nature-of-private-sharing-of-scholarly-articles-on-facebook-wip)
   - [3. Making Public Engagement Accessible](#3-making-public-engagement-accessible)
     - [3.1 «Poster» Collecting, Calculating and Displaying Altmetrics with Open Source](#31-%c2%abposter%c2%bb-collecting-calculating-and-displaying-altmetrics-with-open-source)
     - [3.2 «Software» FHE Collector [WIP]](#32-%c2%absoftware%c2%bb-fhe-collector-wip)
+  - [Bibliography](#bibliography)
 
 ## 1. «Conference Article» Technical Challenges of Collecting Altmetrics through Facebook's Graph API
 
@@ -36,9 +37,14 @@ In this short research paper, to presented at [STI 2018](http://sti2018.cwts.nl/
 
 | Resource | Link |
 |-|-|
-| Article | [IR](https://openaccess.leidenuniv.nl/handle/1887/65189), [arXiv](https://arxiv.org/abs/1809.01194) |
+| Preprint | [arXiv](https://arxiv.org/abs/1809.01194) |
+| Article | [IR](https://openaccess.leidenuniv.nl/handle/1887/65189) |
 | Code | [GitHub Repository](https://github.com/ScholCommLab/fhe-technical-challenges)|
 | Data | [GitHub Repository](https://github.com/ScholCommLab/fhe-technical-challenges) |
+
+Cite as:
+
+> Enkhbayar, A., & Alperin, J. P. (2018). Challenges of capturing engagement on Facebook for Altmetrics. *STI 2018 Conference Proceedings, 1460–1469*. Retrieved from [http://arxiv.org/abs/1809.01194](http://arxiv.org/abs/1809.01194)
 
 <!-- [![DOI](https://zenodo.org/badge/125935481.svg)](https://zenodo.org/badge/latestdoi/125935481) -->
 
@@ -48,11 +54,24 @@ In this short research paper, to presented at [STI 2018](http://sti2018.cwts.nl/
 
 The aim of this project is the collection of Facebook's private engagement numbers through their Graph API in contrast to common approaches which only access data available in postings in public groups. While the previous project outlined the technical challenges of the method, here we attempt to use our approach on a homogeneous set of articles from a single publisher.
 
-### 2.1 «Workshop» Comparing public and private Facebook activity linking to PLOS ONE papers?
+### 2.1 «Workshop» Comparing public and private Facebook activity linking to PLOS ONE papers
 
 *Authors: Asura Enkhbayar, Stefanie Haustein, Germana Barata, Juan Pablo Alperin*
 
-Short paper to be presented at the 2019 Altmetrics Workshop. Oct 11, 2019, Stirling, Scotland.
+Short paper presented at the 2019 Altmetrics Workshop by Asura Enkhbayar. Oct 11, 2019. Stirling, Scotland.
+
+Code and data are based on previous publications.
+
+| Resource | Link |
+|-|-|
+| Program overview | [Link](https://altmetrics.org/altmetrics19) |
+| Article | [PDF](http://altmetrics.org/wp-content/uploads/2019/10/Enkybayar_altmetrics19_paper_8.pdf) |
+| Slides | [Google Slides](https://docs.google.com/presentation/d/1bFsZB-FQDebWjcTeDwAGQc6hqeMobXmOfk_nIkW-mJM/edit?usp=sharing)|
+
+Cite as
+
+> Enkhbayar, A., Haustein, S., Barata, G., & Alperin, J. P. (2019). Comparing public and private Facebook activity linking to PLOS ONE papers. *2019 Altmetrics Workshop*.
+ 
 
 ### 2.2 «Journal Article» How much research shared on Facebook is hidden from public view? A comparison of public and private online activity around PLOS ONE papers.
 
@@ -71,7 +90,11 @@ This paper has been submitted to the journal Quantitative Science Studies.
 | Code | [Zenodo (doi:10.5281/zenodo.3381821)](https://doi.org/10.5281/zenodo.3381821)|
 | Data | [Dataverse (doi:10.7910/DVN/3CS5ES)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/3CS5ES) |
 
-### 2.3 «Short Paper» The Nature of Private Sharing of Scholarly Articles on Facebook [WIP]
+Cite as:
+
+> Enkhbayar, A., Haustein, S., Barata, G., & Alperin, J. P. (2019). How much research shared on Facebook is hidden from public view? A comparison of public and private online activity around PLOS ONE papers. *Under review*. Retrieved from [http://arxiv.org/abs/1909.01476](http://arxiv.org/abs/1909.01476)
+
+### 2.3 «Article» The Nature of Private Sharing of Scholarly Articles on Facebook [WIP]
 
 *Authors: Asura Enkhbayar, Stefanie Haustein, Juan Pablo Alperin*
 
@@ -100,6 +123,10 @@ Poster Lightning Talks presented at 5AM: Altmetrics Conference 16:20-17:20. Sept
 |-|-|
 | Poster | [Institutional Repository](http://summit.sfu.ca/item/18390) |
 
+Cite as:
+
+> Alperin, J. P., Enkhbayar, A., Piwowar, H., Priem, J., & Wass, J. (2018, September). Collecting, Calculating and Displaying Altmetrics with Open Source. [Poster]. *5:AM Altmetrics Conference*. Retrieved from [http://summit.sfu.ca/item/18390](http://summit.sfu.ca/item/18390)
+
 ### 3.2 «Software» FHE Collector [WIP]
 
 *Authors: Stefan Kasberger, Asura Enkhbayar, Juan Pablo Alperin*
@@ -109,3 +136,10 @@ Development of open source software to collect collect public & private Facebook
 | Resource | Link |
 |-|-|
 | Source Code | [Github](https://github.com/ScholCommLab/fhe-collector) |
+| Documentation |  |
+
+Cite as: 
+
+## Bibliography
+
+
